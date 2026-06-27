@@ -22,13 +22,13 @@
     "formats": [
       {
         "title": "Default",
-        "gameplay": "",
+        "gameplay": "Battlefield",
         "customCategories": []
       }
     ]
   },
   "gameplay": {
-    "Classic": {
+    "Battlefield": {
       "mulligan": {
         "info": "",
         "startingHandSize": "4",
