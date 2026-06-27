@@ -57,7 +57,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana"
+          "Battlefield"
         ],
         "layout": {
           "direction": "column",
@@ -106,25 +106,13 @@
           ]
         },
         "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "0308919c-8b15-4252-bd0b-4e4dbeb53f67": "Spellstack"
+        },
+        "autoPlayFromStack": {
+          "0308919c-8b15-4252-bd0b-4e4dbeb53f67": "Spellstack"
+        },
         "sectionsDict": {
-          "55d2e584-9d8a-498a-8cf1-6aa9e466b281": {
-            "title": "Draw Pile",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "ba0ad147-1852-4fd1-b2dd-dedd176f3787": {
             "title": "Rebound Pile",
             "isHidden": "no",
@@ -146,6 +134,22 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "0308919c-8b15-4252-bd0b-4e4dbeb53f67": {
+            "title": "Spellstack",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
