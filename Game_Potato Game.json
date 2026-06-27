@@ -64,7 +64,7 @@
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "Spell Stack",
+              "section": "Spellstack",
               "style": false
             },
             {
@@ -114,7 +114,7 @@
         },
         "sectionsDict": {
           "ba0ad147-1852-4fd1-b2dd-dedd176f3787": {
-            "title": "Rebound Pile",
+            "title": "Rebound",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
@@ -129,11 +129,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "0c7ab3a8-9087-4366-8309-271ae2f7fa69": {
-            "title": "Graveyard",
+          "0308919c-8b15-4252-bd0b-4e4dbeb53f67": {
+            "title": "Spellstack",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "END",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -145,8 +145,24 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "0308919c-8b15-4252-bd0b-4e4dbeb53f67": {
-            "title": "Spellstack",
+          "8cbe55b0-a73f-4ae1-b82b-98581e97d700": {
+            "title": "Token",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "4b8fd58c-76cc-4f52-aba4-a8579564143c": {
+            "title": "Structures",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
