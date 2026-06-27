@@ -14,8 +14,16 @@
     "cardBack": ""
   },
   "deckBuilding": {
-    "mainFilters": [],
-    "formats": []
+    "mainFilters": [
+      ""
+    ],
+    "formats": [
+      {
+        "title": "Default",
+        "gameplay": "",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
