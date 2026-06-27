@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "",
+    "dataUrl": "https://farlymw.github.io/PotatoGame/CardList.json",
     "cardBack": ""
   },
   "deckBuilding": {
