@@ -113,7 +113,7 @@
           "0308919c-8b15-4252-bd0b-4e4dbeb53f67": "Spellstack"
         },
         "sectionsDict": {
-          "ba0ad147-1852-4fd1-b2dd-dedd176f3787": {
+          "Rebound": {
             "title": "Rebound",
             "isHidden": "no",
             "height": "SMALL",
@@ -129,11 +129,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "0308919c-8b15-4252-bd0b-4e4dbeb53f67": {
-            "title": "Spellstack",
+          "Structures": {
+            "title": "Structures",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "START",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -145,7 +145,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "8cbe55b0-a73f-4ae1-b82b-98581e97d700": {
+          "Token": {
             "title": "Token",
             "isHidden": "no",
             "height": "SMALL",
@@ -161,11 +161,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "4b8fd58c-76cc-4f52-aba4-a8579564143c": {
-            "title": "Structures",
+          "Spellstack": {
+            "title": "Spellstack",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
