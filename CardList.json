@@ -1,0 +1,48 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": "1",
+        "image": "https://snow-scissor-c98.notion.site/image/attachment%3A5c24219e-82ef-4dec-a9c6-0e875e930d52%3A1.png?table=block&id=38cc6518-ed46-8046-a03f-cbfb080440f3&spaceId=f65ac7b4-de8d-447e-90ab-c09726e72eb3&width=310&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.imgur.com/BeCEjYE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snack Time",
+    "type": false,
+    "cost": "1"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Factory",
+        "type": false,
+        "cost": 0,
+        "image": "https://snow-scissor-c98.notion.site/image/attachment%3A9b36b63f-332b-4d62-bb60-b1cf624df910%3A2.png?table=block&id=38cc6518-ed46-8051-b9c9-f215df0e9026&spaceId=f65ac7b4-de8d-447e-90ab-c09726e72eb3&width=310&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://imgur.com/a/zLLrRdp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Factory",
+    "type": false,
+    "cost": "2"
+  }
+}
