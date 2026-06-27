@@ -41,7 +41,14 @@
         "drawPerTurn": 1
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "Potato",
+          "image": "https://farlymw.github.io/PotatoGame/-1.png",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        }
+      ],
       "countersStartingValues": [
         0
       ],
