@@ -1,0 +1,80 @@
+{
+  "name": "Potato Game",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://cdn.discordapp.com/attachments/1520295417735155793/1520532827286929428/image.png?ex=6a418a0c&is=6a40388c&hm=2585cd0a7f4870ff735f817a58ffac3665f44c9e8fdb2f0e1f64c2949d087808&"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://farlymw.github.io/PotatoGame/CardList.json",
+    "cardBack": "https://farlymw.github.io/PotatoGame/Cardback.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [],
+    "formats": [
+      {
+        "title": "Default",
+        "gameplay": "",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "4",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": true,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Mana"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": []
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ressources",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          }
+        }
+      }
+    }
+  }
+}
