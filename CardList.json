@@ -303,6 +303,406 @@
     "type": "Spell",
     "cost": "2"
   },
+  "20": {
+    "id": "20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rotten Potato",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rotten Potato",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "21": {
+    "id": "21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mystic Shot",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/21.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mystic Shot",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "22": {
+    "id": "22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trickshot",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/22.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trickshot",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "23": {
+    "id": "23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dam",
+        "type": "Structure",
+        "cost": "5",
+        "image": "https://farlymw.github.io/PotatoGame/23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dam",
+    "type": "Structure",
+    "cost": "5"
+  },
+  "24": {
+    "id": "24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Handshake",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/24.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Handshake",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "25": {
+    "id": "25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Convincing Offer",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://farlymw.github.io/PotatoGame/25.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Convincing Offer",
+    "type": "Spell",
+    "cost": "5"
+  },
+  "26": {
+    "id": "26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bribe",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/26.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bribe",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "27": {
+    "id": "27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rickety Bridge",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/27.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rickety Bridge",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "28": {
+    "id": "28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gold Bar",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/28.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gold Bar",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "29": {
+    "id": "29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Casino",
+        "type": "Structure",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/29.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Casino",
+    "type": "Structure",
+    "cost": "2"
+  },
+  "30": {
+    "id": "30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boulder",
+        "type": "Spell",
+        "cost": "7",
+        "image": "https://farlymw.github.io/PotatoGame/30.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boulder",
+    "type": "Spell",
+    "cost": "7"
+  },
+  "31": {
+    "id": "31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gem",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/31.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gem",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "32": {
+    "id": "32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavern",
+        "type": "Structure",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/32.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavern",
+    "type": "Structure",
+    "cost": "3"
+  },
+  "33": {
+    "id": "33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marketable Plushie",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/33.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marketable Plushie",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "34": {
+    "id": "34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Protect",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/34.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protect!",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "35": {
+    "id": "35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Keg",
+        "type": "Structure",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/35.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Keg",
+    "type": "Structure",
+    "cost": "3"
+  },
+  "36": {
+    "id": "36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Treasure Chest",
+        "type": "Structure",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/36.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Treasure Chest",
+    "type": "Structure",
+    "cost": "2"
+  },
+  "37": {
+    "id": "37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Handful of Nothing",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://farlymw.github.io/PotatoGame/37.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Handful of Nothing",
+    "type": "Spell",
+    "cost": "5"
+  },
+  "38": {
+    "id": "38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Farmer's Exchange",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://farlymw.github.io/PotatoGame/38.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Farmer's Exchange",
+    "type": "Spell",
+    "cost": "4"
+  },
+  "39": {
+    "id": "39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unlimited Bacon",
+        "type": "Spell",
+        "cost": "0",
+        "image": "https://farlymw.github.io/PotatoGame/39.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unlimited Bacon",
+    "type": "Spell",
+    "cost": 0
+  },
+  "40": {
+    "id": "40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Supermarket",
+        "type": "Structure",
+        "cost": "5",
+        "image": "https://farlymw.github.io/PotatoGame/40.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Supermarket",
+    "type": "Structure",
+    "cost": "5"
+  },
+  "41": {
+    "id": "41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rise!!!",
+        "type": "Spell",
+        "cost": "0",
+        "image": "https://farlymw.github.io/PotatoGame/41.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rise!!!",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "42": {
+    "id": "42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Insurance Company",
+        "type": "Structure",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/42.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insurance Company",
+    "type": "Structure",
+    "cost": "3"
+  },
+  "43": {
+    "id": "43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Get Excited",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/43.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Get Excited",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "44": {
+    "id": "44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Makeshift Cannon",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/44.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Makeshift Cannon",
+    "type": "Spell",
+    "cost": "3"
+  },
   "-1": {
     "id": "-1",
     "isToken": true,
