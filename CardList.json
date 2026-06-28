@@ -270,5 +270,85 @@
     "name": "Veggie Cannon",
     "type": "Spell",
     "cost": "1"
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pot of Greed",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://farlymw.github.io/PotatoGame/18.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pot of Greed",
+    "type": "Spell",
+    "cost": 0
+  },
+  "19": {
+    "id": "19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fortify",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fortify",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "-1": {
+    "id": "-1",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Potato",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Potato",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "-2": {
+    "id": "-2",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Coin",
+        "type": "Spell",
+        "cost": "0",
+        "image": "https://farlymw.github.io/PotatoGame/-2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coin",
+    "type": "Spell",
+    "cost": 0
+  },
+  "-3": {
+    "id": "-3",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pebble",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://farlymw.github.io/PotatoGame/-3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pebble",
+    "type": "Spell",
+    "cost": 0
   }
 }
