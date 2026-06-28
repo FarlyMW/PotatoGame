@@ -150,14 +150,14 @@
       "front": {
         "name": "Bank",
         "type": "Structure",
-        "cost": "4",
+        "cost": "5",
         "image": "https://farlymw.github.io/PotatoGame/10.png",
         "isHorizontal": false
       }
     },
     "name": "Bank",
     "type": "Structure",
-    "cost": "4"
+    "cost": "5"
   },
   "11": {
     "id": "11",
@@ -246,14 +246,14 @@
       "front": {
         "name": "Rock",
         "type": "Spell",
-        "cost": 0,
+        "cost": 1,
         "image": "https://farlymw.github.io/PotatoGame/16.png",
         "isHorizontal": false
       }
     },
     "name": "Rock",
     "type": "Spell",
-    "cost": 0
+    "cost": 1
   },
   "17": {
     "id": "17",
@@ -534,7 +534,7 @@
       "front": {
         "name": "Protect",
         "type": "Spell",
-        "cost": "1",
+        "cost": "2",
         "image": "https://farlymw.github.io/PotatoGame/34.png",
         "isHorizontal": false
       }
