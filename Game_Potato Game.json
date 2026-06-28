@@ -68,39 +68,39 @@
               "style": false,
               "content": [
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack1",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack2",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack3",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack4",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack5",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack6",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack7",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack8",
                   "style": false
                 },
                 {
-                  "section": "Spellstack",
+                  "section": "Spellstack9",
                   "style": false
                 }
               ],
@@ -183,12 +183,140 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Spellstack": {
-            "title": "Spellstack",
+          "Spellstack1": {
+            "title": "Spellstack1",
             "isHidden": "no",
             "height": "BIG",
             "alignment": "CENTER",
-            "opponentAlignment": "false",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack2": {
+            "title": "Spellstack2",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack3": {
+            "title": "Spellstack3",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack4": {
+            "title": "Spellstack4",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack5": {
+            "title": "Spellstack5",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack6": {
+            "title": "Spellstack6",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack7": {
+            "title": "Spellstack7",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack8": {
+            "title": "Spellstack8",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Spellstack9": {
+            "title": "Spellstack9",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "",
