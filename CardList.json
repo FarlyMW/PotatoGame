@@ -703,6 +703,102 @@
     "type": "Spell",
     "cost": "3"
   },
+  "45": {
+    "id": "45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boooooo!",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/45.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boooooo!",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "46": {
+    "id": "46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Totato Pomato",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/46.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Totato Pomato",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "47": {
+    "id": "47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paint It Red",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/47.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paint It Red",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "48": {
+    "id": "48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charity",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/48.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charity",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "49": {
+    "id": "49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ricochet",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://farlymw.github.io/PotatoGame/49.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ricochet",
+    "type": "Spell",
+    "cost": 0
+  },
+  "50": {
+    "id": "50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "TRANSMOGULATE",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/50.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "TRANSMOGULATE",
+    "type": "Spell",
+    "cost": "3"
+  },
   "-1": {
     "id": "-1",
     "isToken": true,
@@ -750,5 +846,21 @@
     "name": "Pebble",
     "type": "Spell",
     "cost": 0
+  },
+  "-4": {
+    "id": "-4",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Tomato",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/-4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tomato",
+    "type": "Spell",
+    "cost": "2"
   }
 }
