@@ -40,14 +40,14 @@
         "drawOnStart": false,
         "sharedTurn": true,
         "firstPlayerTokenName": "",
-        "drawPerTurn": 1
+        "drawPerTurn": "0"
       },
       "defaultNotes": "",
       "tokens": [
         {
           "name": "Potato",
           "image": "https://farlymw.github.io/PotatoGame/-1.png",
-          "isUnique": false,
+          "isUnique": true,
           "leavesAtEndOfTurn": false
         }
       ],
@@ -64,21 +64,43 @@
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "Spellstack",
-              "style": false
-            },
-            {
               "direction": "row",
               "style": false,
               "content": [
                 {
-                  "section": "Structures",
-                  "style": {
-                    "Width": 12
-                  }
+                  "section": "Spellstack",
+                  "style": false
                 },
                 {
-                  "section": "Graveyard",
+                  "section": "Spellstack",
+                  "style": false
+                },
+                {
+                  "section": "Spellstack",
+                  "style": false
+                },
+                {
+                  "section": "Spellstack",
+                  "style": false
+                },
+                {
+                  "section": "Spellstack",
+                  "style": false
+                },
+                {
+                  "section": "Spellstack",
+                  "style": false
+                },
+                {
+                  "section": "Spellstack",
+                  "style": false
+                },
+                {
+                  "section": "Spellstack",
+                  "style": false
+                },
+                {
+                  "section": "Spellstack",
                   "style": false
                 }
               ],
@@ -97,7 +119,7 @@
                   "style": false
                 },
                 {
-                  "section": "Deck",
+                  "section": "Structures",
                   "style": false
                 }
               ],
@@ -164,9 +186,9 @@
           "Spellstack": {
             "title": "Spellstack",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "BIG",
             "alignment": "START",
-            "opponentAlignment": false,
+            "opponentAlignment": "START",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
