@@ -262,14 +262,14 @@
       "front": {
         "name": "Veggie Cannon",
         "type": "Spell",
-        "cost": "1",
+        "cost": "3",
         "image": "https://farlymw.github.io/PotatoGame/17.png",
         "isHorizontal": false
       }
     },
     "name": "Veggie Cannon",
     "type": "Spell",
-    "cost": "1"
+    "cost": "3"
   },
   "18": {
     "id": "18",
