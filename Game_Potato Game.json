@@ -52,6 +52,7 @@
         }
       ],
       "countersStartingValues": [
+        0,
         0
       ],
       "hideFacedDownCards": false,
