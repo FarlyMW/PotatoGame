@@ -534,7 +534,7 @@
       "front": {
         "name": "Protect",
         "type": "Spell",
-        "cost": "2",
+        "cost": "1",
         "image": "https://farlymw.github.io/PotatoGame/34.png",
         "isHorizontal": false
       }
@@ -798,6 +798,102 @@
     "name": "TRANSMOGULATE",
     "type": "Spell",
     "cost": "3"
+  },
+  "51": {
+    "id": "51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Library",
+        "type": "Structure",
+        "cost": "4",
+        "image": "https://farlymw.github.io/PotatoGame/51.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Library",
+    "type": "Structure",
+    "cost": "4"
+  },
+  "52": {
+    "id": "52",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clean Up!",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://farlymw.github.io/PotatoGame/52.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clean Up!",
+    "type": "Spell",
+    "cost": "6"
+  },
+  "53": {
+    "id": "53",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diamond",
+        "type": "Structure",
+        "cost": "3",
+        "image": "https://farlymw.github.io/PotatoGame/53.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diamond",
+    "type": "Structure",
+    "cost": "3"
+  },
+  "54": {
+    "id": "54",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boomerang",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/54.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boomerang",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "55": {
+    "id": "55",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Junkyard",
+        "type": "Structure",
+        "cost": "2",
+        "image": "https://farlymw.github.io/PotatoGame/55.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Junkyard",
+    "type": "Structure",
+    "cost": "2"
+  },
+  "56": {
+    "id": "56",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yoink",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://farlymw.github.io/PotatoGame/56.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yoink",
+    "type": "Spell",
+    "cost": "1"
   },
   "-1": {
     "id": "-1",
