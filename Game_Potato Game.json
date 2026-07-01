@@ -22,8 +22,8 @@
     "formats": [
       {
         "title": "Default",
-        "gameplay": "Battlefield",
-        "customCategories": []
+        "gameplay": "Standard",
+        "deckRuleset": "Default",
       }
     ],
     "deckRulesets": {
