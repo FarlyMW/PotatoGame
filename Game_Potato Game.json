@@ -23,6 +23,7 @@
       {
         "title": "Default",
         "gameplay": "Battlefield",
+        "deckRuleset": "Constructed",
         "customCategories": []
       }
     ],
