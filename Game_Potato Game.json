@@ -25,7 +25,18 @@
         "gameplay": "Battlefield",
         "customCategories": []
       }
-    ]
+    ],
+    ,
+    "deckRulesets": {
+      "Default": {
+        "reversedLegality": true,
+        "general": {
+          "min": 30,
+          "max": 30,
+          "maxPerCard": 2
+        }
+      }
+    }
   },
   "gameplay": {
     "Battlefield": {
