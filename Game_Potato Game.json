@@ -38,7 +38,7 @@
     }
   },
   "gameplay": {
-    "Battlefield": {
+    "Default": {
       "mulligan": {
         "info": "",
         "startingHandSize": "4",
@@ -68,7 +68,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Battlefield"
+          "Default"
         ],
         "layout": {
           "direction": "column",
